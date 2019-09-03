@@ -7,4 +7,4 @@
 #   }
 # }
 
-data "aws_vpcs" "foo" {}
+data "aws_vpcs" "existing_vpcs" {}
